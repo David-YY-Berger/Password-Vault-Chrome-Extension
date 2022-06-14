@@ -1,0 +1,35 @@
+
+VIDEOS:
+create websocket in C#: <-- this!
+https://m.youtube.com/watch?v=ThiAQAB5Dp4
+
+websocket in javaScript:
+https://m.youtube.com/watch?v=FduLSXEHLng
+
+EXAMPLE CODES:
+simple chrome extension: <--this!
+https://www.c-sharpcorner.com/article/how-to-create-chrome-extensions-my-first-extension/
+
+
+
+
+implement web socket in google chrome:
+https://stackoverflow.com/questions/48746426/implement-websocket-in-chrome-extension
+code example for web socket in chrome: https://github.com/kinjouj/chrome-extension-background-websocket-demo/blob/master/background.js
+
+socket w C Sharp...
+https://stackoverflow.com/questions/30523478/connecting-to-websocket-using-c-sharp-i-can-connect-using-javascript-but-c-sha
+
+
+
+
+**learn java script and chrome**::
+40min javascript tutorial - building a calculator...
+https://www.youtube.com/watch?v=j59qQ7YWLxw
+source code on java: https://github.com/WebDevSimplified/Vanilla-JavaScript-Calculator
+
+chrome extensiona and javascript - 20 min
+https://www.youtube.com/watch?v=Olz4wo-ILwI
+
+source code on github: 
+https://github.com/eviltester/counterstringjs

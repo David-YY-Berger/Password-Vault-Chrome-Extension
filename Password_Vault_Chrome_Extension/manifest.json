@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+  "name": "Password Vault - TEE",
+  "description": "Extension allows User to store and access passwords in a secure vault on their computer, in a TEE. Created by David and Eyal at Lev Academic Institute (Jerusalem), 2022",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "Images/flag.png",
+    "default_popup": "index.html"
+  },
+ 
+  "permissions": [ "activeTab", 
+    "tabs", 
+    "<all_urls>" ]
+} 
