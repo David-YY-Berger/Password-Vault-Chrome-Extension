@@ -38,13 +38,7 @@ The application is versatile can be run in chrome, or in any JS IDE (just unchec
 ![image](https://user-images.githubusercontent.com/91850832/173538560-db7d6646-3cff-4ab4-a356-3f6e8c48f173.png)
 ![image](https://user-images.githubusercontent.com/91850832/172663317-8cfb3861-324e-464f-8976-763b6ccadcc9.png)
 
-
-
-
-## (Threat Modeling)
-text text text text text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text texttext text text
-
-
+  
 
 ### Points about the source code:
 *  Relevant exceptions in the Host
