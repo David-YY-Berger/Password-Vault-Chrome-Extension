@@ -10,8 +10,8 @@ The extension communicates with the Server via a **Websocket**, and the Host com
 The extensions pulls the URL from the browser, and sends to the Host (and to the Applet). The Applet returns a randomly generated password (using **Sha1 algorithm**, based on a **time seed** given by Host). The pairs of URL’s and Password are stored in the Applet’s secure **Flashstorage**. All communication is echoed in the console opened by the a Host (helpful for debugging).  
 For **2-point security**, the user must use his computer (“_what you have_”) and enter a master password (“_what you know_”) before accessing any information.   
 The extension pulls the URL from the browser and **injects a script** into the browser (using **Chrome’s ActiveTab**), automatically locating and entering the password in the appropriate text box on the website.  
-
-The application is versatile can be run in chrome, or in any JS IDE (just uncheck the checkbox)
+The application is versatile, and can be run in chrome, or in any JS IDE (just uncheck the checkbox)  
+  
 ## How to run our Program (after downloading the Source Code):
 (1) Ensure that Intel’s DAL is working, and compile the program into an **".dalp"** file. Increase the flash storage size in the Manifest:  
   
