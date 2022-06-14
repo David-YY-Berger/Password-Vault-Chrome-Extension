@@ -3,6 +3,7 @@
 
 ## Overview
 Our project has 3 parts:
+![image](https://user-images.githubusercontent.com/91850832/173539403-ed8d0ad3-afd7-43cd-b870-5a56004f3ca4.png)
 (1) a chrome extension (**JavaScript, HTML** - independently learned)
 (2) a Host /Server application (**C#**)
 (3) an Applet that runs in a **TEE** (Trusted Execution Environment) using Intel’s DAL (**java**)  
