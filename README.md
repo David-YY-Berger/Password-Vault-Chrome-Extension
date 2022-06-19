@@ -1,5 +1,5 @@
 # Connecting A Password Vault (in a TEE) with a Chrome Extension
-### Project of David Berger and Eyal Seckbach - at Lev Academic Institute (Jerusalem)
+### Project of David Berger and Eyal Seckbach - at Lev Academic Institute (Jerusalem College of Technology)
 (TEE = Trusted Execution Environment)  
   
 ## Overview
