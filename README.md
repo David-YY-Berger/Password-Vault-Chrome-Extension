@@ -5,8 +5,7 @@
 ## Overview
 Our project has 3 parts:
 
-![image](https://user-images.githubusercontent.com/91850832/194752076-c7c6c06b-7fde-48e7-b4e7-8f3abe7b4c61.png)
-
+![image](https://user-images.githubusercontent.com/91850832/194752126-617292f6-c7e7-489a-9211-c0cee0fe8495.png)
 (1) The Chrome Extension (**JavaScript, HTML** - independently learned) -- the UI  
 (2) The Host/Server Application (**C#**)   
 (3) The Applet that runs in a **TEE** (Trusted Execution Environment) using Intel’s DAL (**java**) -- holds the Data  
