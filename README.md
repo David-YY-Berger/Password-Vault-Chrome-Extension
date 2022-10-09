@@ -4,7 +4,9 @@
   
 ## Overview
 Our project has 3 parts:
-<img width="2815" alt="UML Password Vault (1)" src="https://user-images.githubusercontent.com/91850832/174467648-19f6c896-32bf-4bca-a2e2-757e1018e37c.png">
+
+![image](https://user-images.githubusercontent.com/91850832/194752076-c7c6c06b-7fde-48e7-b4e7-8f3abe7b4c61.png)
+
 (1) The Chrome Extension (**JavaScript, HTML** - independently learned) -- the UI  
 (2) The Host/Server Application (**C#**)   
 (3) The Applet that runs in a **TEE** (Trusted Execution Environment) using Intel’s DAL (**java**) -- holds the Data  
